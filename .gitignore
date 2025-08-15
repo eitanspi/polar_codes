@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv
+venv/
+.env.*
+.ipynb_checkpoints/
+
+# macOS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Project artifacts
+logs/
+data/
+outputs/
+checkpoints/
+weights/
+*.png
+*.pdf
