@@ -21,3 +21,6 @@ checkpoints/
 weights/
 *.png
 *.pdf
+
+# extra macOS ignore
+*DS_Store*
